@@ -2,7 +2,7 @@
  <head>
  <title>Docker PHP Application</title>
  </head>
- <body bgcolor=yellow>
+ <body bgcolor=pink>
  <h1>Congratulations! This is Your first PHP web page</h1>
         <p>Your <em>PHP</em> application is now running on Docker container</p>
         <p>You are running PHP version <?= phpversion() ?></p>
